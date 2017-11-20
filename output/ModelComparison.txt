@@ -1,0 +1,19 @@
+NN1  loss_and_metrics: 0.0683277884237
+NN2  loss_and_metrics: 0.0683835355361
+NN2  loss_and_metrics: 0.0684801225126
+Extra trees  loss_and_metrics: 0.0851217982942
+K-nn  loss_and_metrics: 0.0851245680106
+Linear regression  loss_and_metrics: 0.0695101307342
+Ridge  loss_and_metrics: 0.0694901320635
+Random Forest  loss_and_metrics: 0.0693606520939
+
+Linear Regression0.0695101307342
+Lasso Regression0.0695269902396
+Elastic Net0.0695269902396
+Ridge0.0695009609524
+Lasso Lars0.0695269902396
+Bayesian Ridge0.069410626729
+AdaBoost0.150929201701
+Bagging0.0828964403597
+Extra trees0.0851217982942
+K -nn0.0851245680106
